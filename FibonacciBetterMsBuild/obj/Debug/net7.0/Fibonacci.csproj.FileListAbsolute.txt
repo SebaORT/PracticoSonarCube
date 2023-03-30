@@ -1,0 +1,15 @@
+/root/sonarQube/PracticoSonarCube/FibonacciBetterMsBuild/bin/Debug/net7.0/Fibonacci
+/root/sonarQube/PracticoSonarCube/FibonacciBetterMsBuild/bin/Debug/net7.0/Fibonacci.deps.json
+/root/sonarQube/PracticoSonarCube/FibonacciBetterMsBuild/bin/Debug/net7.0/Fibonacci.runtimeconfig.json
+/root/sonarQube/PracticoSonarCube/FibonacciBetterMsBuild/bin/Debug/net7.0/Fibonacci.dll
+/root/sonarQube/PracticoSonarCube/FibonacciBetterMsBuild/bin/Debug/net7.0/Fibonacci.pdb
+/root/sonarQube/PracticoSonarCube/FibonacciBetterMsBuild/obj/Debug/net7.0/Fibonacci.csproj.AssemblyReference.cache
+/root/sonarQube/PracticoSonarCube/FibonacciBetterMsBuild/obj/Debug/net7.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/root/sonarQube/PracticoSonarCube/FibonacciBetterMsBuild/obj/Debug/net7.0/Fibonacci.AssemblyInfoInputs.cache
+/root/sonarQube/PracticoSonarCube/FibonacciBetterMsBuild/obj/Debug/net7.0/Fibonacci.AssemblyInfo.cs
+/root/sonarQube/PracticoSonarCube/FibonacciBetterMsBuild/obj/Debug/net7.0/Fibonacci.csproj.CoreCompileInputs.cache
+/root/sonarQube/PracticoSonarCube/FibonacciBetterMsBuild/obj/Debug/net7.0/Fibonacci.dll
+/root/sonarQube/PracticoSonarCube/FibonacciBetterMsBuild/obj/Debug/net7.0/refint/Fibonacci.dll
+/root/sonarQube/PracticoSonarCube/FibonacciBetterMsBuild/obj/Debug/net7.0/Fibonacci.pdb
+/root/sonarQube/PracticoSonarCube/FibonacciBetterMsBuild/obj/Debug/net7.0/Fibonacci.genruntimeconfig.cache
+/root/sonarQube/PracticoSonarCube/FibonacciBetterMsBuild/obj/Debug/net7.0/ref/Fibonacci.dll
